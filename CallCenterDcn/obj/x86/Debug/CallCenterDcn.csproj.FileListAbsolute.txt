@@ -1,0 +1,10 @@
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\bin\Debug\CallCenterDcn.exe
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\bin\Debug\CallCenterDcn.pdb
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.Form1.resources
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.Properties.Resources.resources
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.csproj.GenerateResource.Cache
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.exe
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.pdb
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.UserControls.ucManageUser.resources
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.UserControls.ucMsgEmail.resources
+E:\DCN\Projects\CallCenterDcn\CallCenterDcn\obj\x86\Debug\CallCenterDcn.csprojResolveAssemblyReference.cache
